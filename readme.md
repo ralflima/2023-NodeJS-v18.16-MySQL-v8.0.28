@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ralflima/spring_boot_modulo4/blob/main/logo.png" width="30%">
+  <img src="https://github.com/ralflima/nodejs_mysql/blob/main/logo.png" width="30%">
   <h1 style="border-bottom:none">Node.js e MySQL</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
