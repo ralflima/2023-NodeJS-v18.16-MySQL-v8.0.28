@@ -31,7 +31,7 @@
    + Criando grupos de produtos (segmentos);
    + Utilizando os comandos SQL: Like e Rand;
    + Comprando domínio e servidor;
-   + Realizado o deploy.
+   + Realizado o deploy na KingHost.
 
    <p>Os membros também podem realizar um projeto para obter o certificado deste treinamento. Ao se tornar membro, você já pode realizar este projeto para obter o diploma.</p>
 
